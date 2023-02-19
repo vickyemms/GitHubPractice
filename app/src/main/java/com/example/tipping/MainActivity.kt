@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("Change 2")
         println("Change 3")
         println("change 4")
+        println("hello from your friend")
 
     }
 }
